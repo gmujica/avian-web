@@ -176,7 +176,7 @@ class Home extends React.Component {
             <Grid container spacing={24}>
               <Grid item xs={12}>
               <Typography variant="display2" gutterBottom style={{color: "#FFF"}}>
-                Card Principal
+                Card Principal 2
               </Typography>
               </Grid>
               <Grid item xs={12}>
